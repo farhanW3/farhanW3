@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farhanW3
+- 👋 Hi, I’m @farhan_khwaja (main account)
 - 👀 I’m interested in Web3, Distributed Systems, Data Science (ML & Data Minning) & ARSENAL!!
 - 🌱 I’m currently learning about LIFE
 - 📫 How to reach me farhan.khwaja@gmail.com / [OG Profile](https://github.com/farhankhwaja)
